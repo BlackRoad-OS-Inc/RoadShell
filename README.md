@@ -1,3 +1,11 @@
+# RoadShell
+
+> Road Fleet: RoadShell — Structured data shell — tables, JSON, typed pipelines. PROPRIETARY BlackRoad OS.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 # Nushell <!-- omit in toc -->
 [![Crates.io](https://img.shields.io/crates/v/nu.svg)](https://crates.io/crates/nu)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/nushell/nushell/ci.yml?branch=main)](https://github.com/nushell/nushell/actions)
